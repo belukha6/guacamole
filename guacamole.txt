@@ -2,4 +2,3 @@ avocados
 garlic
 limes
 salt
-chips
